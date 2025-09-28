@@ -16,5 +16,4 @@ Personal portfolio website built with React + Vite
 4. Run development server with npm run dev
 
 # Deployment
-This project is deployed using Vercel
-Check it live with https://yourdomain.vercel.app
+Check it live: https://evelyn-christine.vercel.app/
