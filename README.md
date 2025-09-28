@@ -11,7 +11,7 @@ Personal portfolio website built with React + Vite
 # How to Run The Program
 
 1. Clone the repository with git clone https://github.com/username/portfolio.git
-2. Enter the project folder with cd portfolio
+2. Enter the project folder with cd Website-Portfolio
 3. Install dependencies with npm install
 4. Run development server with npm run dev
 
